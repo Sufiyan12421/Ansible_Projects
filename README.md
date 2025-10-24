@@ -15,3 +15,5 @@ It demonstrates how to manage multiple servers efficiently and maintain environm
 
 ## 🔗 Related Projects
 - [Terraform Multi-Environment Infrastructure](https://github.com/Sufiyan12421/terraform-infra-environments)
+  
+<img width="1920" height="1075" alt="image" src="https://github.com/user-attachments/assets/0d1651ae-bf2d-4d5b-91e7-50777f507ab6" />
