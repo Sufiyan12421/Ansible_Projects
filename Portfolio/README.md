@@ -26,8 +26,8 @@ Terraform
 1️⃣ Install Ansible
 
 Run the following commands on your control node (local or EC2 instance):
-sudo apt update
-sudo apt install ansible -y
+--sudo apt update
+--sudo apt install ansible -y
 
 To verify installation:
 
